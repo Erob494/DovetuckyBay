@@ -11,7 +11,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_pipeCurve",
+    "path": "objects/obj_pipeCurve/obj_pipeCurve.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -28,7 +31,9 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,},
   ],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"position","path":"objects/obj_pipeCurve/obj_pipeCurve.yy",},"objectId":{"name":"obj_pipeCurve","path":"objects/obj_pipeCurve/obj_pipeCurve.yy",},"value":"2",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
