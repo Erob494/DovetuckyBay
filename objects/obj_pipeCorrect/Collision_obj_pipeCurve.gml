@@ -3,6 +3,7 @@
 
 if(other.position == correct){
 	other.active = true;
+	instance_destroy();
 }else{
 	other.active = false;
 }

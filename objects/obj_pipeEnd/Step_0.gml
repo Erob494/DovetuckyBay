@@ -4,3 +4,7 @@
 if (isOn){
 	room_goto(1);
 }
+
+if(! instance_exists(obj_pipeCorrect)){
+	isOn = true;
+}
