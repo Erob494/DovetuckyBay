@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"spr_pipeCurve","path":"sprites/spr_pipeCurve/spr_pipeCurve.yy",},"order":8,},
     {"id":{"name":"spr_platform","path":"sprites/spr_platform/spr_platform.yy",},"order":3,},
+    {"id":{"name":"obj_pipeCorrect","path":"objects/obj_pipeCorrect/obj_pipeCorrect.yy",},"order":10,},
     {"id":{"name":"spr_pipeStraight","path":"sprites/spr_pipeStraight/spr_pipeStraight.yy",},"order":7,},
     {"id":{"name":"spr_pipeEnd","path":"sprites/spr_pipeEnd/spr_pipeEnd.yy",},"order":10,},
     {"id":{"name":"spr_pipeStart","path":"sprites/spr_pipeStart/spr_pipeStart.yy",},"order":9,},
