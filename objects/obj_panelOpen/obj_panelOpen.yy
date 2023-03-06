@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_pipeCorrect",
+  "name": "obj_panelOpen",
   "spriteId": {
-    "name": "spr_block",
-    "path": "sprites/spr_block/spr_block.yy",
+    "name": "spr_dirt",
+    "path": "sprites/spr_dirt/spr_dirt.yy",
   },
   "solid": false,
   "visible": true,
