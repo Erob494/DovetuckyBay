@@ -38,7 +38,7 @@
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"order":1,},
     {"id":{"name":"spr_panel","path":"sprites/spr_panel/spr_panel.yy",},"order":11,},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},"order":2,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"rm_DTBay","path":"rooms/rm_DTBay/rm_DTBay.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Windows","path":"options/windows/options_windows.yy",},
@@ -52,9 +52,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_Solar","path":"rooms/rm_Solar/rm_Solar.yy",},},
     {"roomId":{"name":"rm_Start","path":"rooms/rm_Start/rm_Start.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_DTBay","path":"rooms/rm_DTBay/rm_DTBay.yy",},},
+    {"roomId":{"name":"rm_Solar","path":"rooms/rm_Solar/rm_Solar.yy",},},
     {"roomId":{"name":"rm_Water","path":"rooms/rm_Water/rm_Water.yy",},},
   ],
   "Folders": [

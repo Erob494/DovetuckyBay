@@ -11,11 +11,11 @@ switch(image_angle){
 	break;
 	
 	case 180:
-		position = 1;
+		position = 3;
 	break;
 	
 	case 270:
-		position = 2;
+		position = 4;
 	break;
 	
 	default:
