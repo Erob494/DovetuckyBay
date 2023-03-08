@@ -7,7 +7,7 @@ for (var i = 0; i < instance_number(obj_panelCorrect); ++i;){
 		count += 1
 		show_debug_message(count);
 		if count == 8{
-			room_goto_next()
+			room_goto(rm_DTBay)
 		}
 		
 	}

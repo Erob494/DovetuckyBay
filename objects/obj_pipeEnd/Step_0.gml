@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if (isOn){
-	room_goto(1);
+	room_goto(rm_DTBay);
 }
 
 if(! instance_exists(obj_pipeCorrect)){
