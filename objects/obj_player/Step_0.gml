@@ -68,6 +68,10 @@ else {
 		//instance_create_layer(x,y,"Instances",obj_sword)
 	}
 }
+if( global.lives == 0){
+	room_goto(rm_GameOver)
+}
+
 
 
 

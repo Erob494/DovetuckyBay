@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_signPost",
   "spriteId": {
-    "name": "spr_pipeStraight",
-    "path": "sprites/spr_pipeStraight/spr_pipeStraight.yy",
+    "name": "spr_sign",
+    "path": "sprites/spr_sign/spr_sign.yy",
   },
   "solid": false,
   "visible": true,
