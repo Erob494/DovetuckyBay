@@ -2,7 +2,8 @@
 // You can write your code in this editor
 
 if (isOn){
-	room_goto(rm_DTBay);
+	global.waterFixed = true;
+	room_goto(rm_DTBay_Water);
 }
 
 if(! instance_exists(obj_pipeCorrect)){

@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(rm_DTBay)
+//if keyboard_check(vk_space){
+	room_goto(rm_DTBay_Platformer)
+//}
