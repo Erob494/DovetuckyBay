@@ -1,5 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
+move_dir = keyboard_check(vk_right) - keyboard_check(vk_left)
+
+if(move_dir != 0){
+	sprite_index = spr_player_run
+}
+else{
+	sprite_index = spr_Player
+}
+
 if (keyboard_check(vk_left) and !instance_place(x-
 move_speed, y, obj_block)) {
 	x += -move_speed
@@ -38,6 +47,7 @@ else {
 	climbing = false
 	//sprite_index = spr_player
 }
+
 
 if climbing{
 	gravity = 0
