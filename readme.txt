@@ -13,8 +13,7 @@ to Dovetucky Bay safely so that trees can be planted for clean air and food.
 
 	Level 2:
 		The player must solve a picture puzzle to restore solar power to Dovetucky Bay. There are eight blocks within a nine block 
-space so there is only one free space for the player to move one move at a time to rearrange all of the randomized blocks by sliding them
-and rotating them. The player will have three minutes to solve the puzzle.
+space so there is only one free space for the player to move one move at a time to rearrange all of the randomized blocks by sliding them. The player will have three minutes to solve the puzzle.
 
 	Level 3:
 		The player must solve a different puzzle that turns different pieces of pipes 90 degrees to create a complete, connected path and

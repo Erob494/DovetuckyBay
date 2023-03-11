@@ -7,14 +7,18 @@ for (var i = 0; i < instance_number(obj_panelCorrect); ++i;){
 		count += 1
 		show_debug_message(count);
 		if count == 8{
+			if wait{
+			alarm[0] = 200
+			wait = false
+			}
 			global.solarFixed = true;
-			room_goto(rm_Platformer_Solar)
+			if !global.waterFixed room_goto(rm_DTBay)
 		}
 		
 	}
 		
 }
 
-
-
-
+if global.waterFixed and global.solarFixed{  
+	room_goto(rm_Win)
+}

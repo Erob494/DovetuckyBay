@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(global.solarFixed and global.waterFixed and !instance_exists(obj_seed)){
+if(global.solarFixed and global.waterFixed){
 	room_goto(rm_Win);
 }

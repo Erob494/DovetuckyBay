@@ -3,9 +3,12 @@
 
 if (isOn){
 	global.waterFixed = true;
-	room_goto(rm_DTBay_Water);
+	if !global.solarFixed room_goto(rm_DTBay)
 }
 
 if(! instance_exists(obj_pipeCorrect)){
 	isOn = true;
+}
+if global.solarFixed and global.waterFixed {
+	room_goto(rm_Win);
 }
