@@ -18,6 +18,7 @@
     {"id":{"name":"snd_DTBay","path":"sounds/snd_DTBay/snd_DTBay.yy",},"order":0,},
     {"id":{"name":"obj_seedCounter","path":"objects/obj_seedCounter/obj_seedCounter.yy",},"order":23,},
     {"id":{"name":"obj_musicDTBay","path":"objects/obj_musicDTBay/obj_musicDTBay.yy",},"order":18,},
+    {"id":{"name":"rm_Instructions","path":"rooms/rm_Instructions/rm_Instructions.yy",},"order":11,},
     {"id":{"name":"snd_Solar","path":"sounds/snd_Solar/snd_Solar.yy",},"order":1,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":19,},
     {"id":{"name":"spr_pipeEnd","path":"sprites/spr_pipeEnd/spr_pipeEnd.yy",},"order":10,},
@@ -51,6 +52,7 @@
     {"id":{"name":"tls_1","path":"sprites/tls_1/tls_1.yy",},"order":0,},
     {"id":{"name":"rm_Start","path":"rooms/rm_Start/rm_Start.yy",},"order":1,},
     {"id":{"name":"obj_pipeStart","path":"objects/obj_pipeStart/obj_pipeStart.yy",},"order":8,},
+    {"id":{"name":"obj_instructionsCode","path":"objects/obj_instructionsCode/obj_instructionsCode.yy",},"order":34,},
     {"id":{"name":"obj_pipeEnd","path":"objects/obj_pipeEnd/obj_pipeEnd.yy",},"order":9,},
     {"id":{"name":"spr_Instructions","path":"sprites/spr_Instructions/spr_Instructions.yy",},"order":5,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
@@ -104,6 +106,7 @@
     {"roomId":{"name":"rm_Solar","path":"rooms/rm_Solar/rm_Solar.yy",},},
     {"roomId":{"name":"rm_Water","path":"rooms/rm_Water/rm_Water.yy",},},
     {"roomId":{"name":"rm_GameOver","path":"rooms/rm_GameOver/rm_GameOver.yy",},},
+    {"roomId":{"name":"rm_Instructions","path":"rooms/rm_Instructions/rm_Instructions.yy",},},
     {"roomId":{"name":"rm_Win","path":"rooms/rm_Win/rm_Win.yy",},},
   ],
   "Folders": [
