@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-global.waterFixed = false;
-global.solarFixed = false;
+if(alarm[0]<0){
+	alarm[0] = room_speed * 90;
+}

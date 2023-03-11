@@ -19,3 +19,9 @@ and rotating them. The player will have three minutes to solve the puzzle.
 	Level 3:
 		The player must solve a different puzzle that turns different pieces of pipes 90 degrees to create a complete, connected path and
 restore water to Dovetucky Bay. The player will have two minutes to rearrange the pipes so that there is a complete, connected path.
+
+Cheat Codes:
+Alt + 1: Sends player to Platform Room (This was for testing purposes)
+Alt + 2: Sends player to stage 2 of Platform Room (This was for testing purposes)
+Alt + 3: Sends player to Win Room (This was for testing purposes)
+Alt + K: Player Commits Suicide (This was for testing purposes)

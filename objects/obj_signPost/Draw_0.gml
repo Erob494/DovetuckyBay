@@ -36,6 +36,18 @@ switch(signNumber){
 	}
 	break;
 	
+	case 5:
+	if(instance_place(x,y,obj_player)){
+		if(!global.solarFixed){
+			draw_text_transformed(x,y-76,"Power needs to be restored",1,1,0)
+		}
+		if(!global.waterFixed){
+			draw_text_transformed(x,y-86,"Pipes need to be fixed",1,1,0)
+		}
+		draw_text_transformed(x,y-96,"Collect all the seeds to move on",1,1,0)
+	}
+	break;
+	
 	default:
 		position = 1;
 	break;

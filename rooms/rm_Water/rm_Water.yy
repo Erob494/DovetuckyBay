@@ -79,6 +79,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_14E9EEF5","properties":[],"isDnd":false,"objectId":{"name":"obj_pipeStraight","path":"objects/obj_pipeStraight/obj_pipeStraight.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_621507E1","properties":[],"isDnd":false,"objectId":{"name":"obj_pipeStraight","path":"objects/obj_pipeStraight/obj_pipeStraight.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_EDE5003","properties":[],"isDnd":false,"objectId":{"name":"obj_pipeCurve","path":"objects/obj_pipeCurve/obj_pipeCurve.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_DBC6DB7","properties":[],"isDnd":false,"objectId":{"name":"obj_pipeTimer","path":"objects/obj_pipeTimer/obj_pipeTimer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":480.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Correct_Path","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_751E3477","properties":[
@@ -226,6 +227,7 @@
     {"name":"inst_14E9EEF5","path":"rooms/rm_Water/rm_Water.yy",},
     {"name":"inst_621507E1","path":"rooms/rm_Water/rm_Water.yy",},
     {"name":"inst_EDE5003","path":"rooms/rm_Water/rm_Water.yy",},
+    {"name":"inst_DBC6DB7","path":"rooms/rm_Water/rm_Water.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
