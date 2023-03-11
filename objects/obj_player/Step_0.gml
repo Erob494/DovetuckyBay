@@ -22,7 +22,13 @@ move_speed, y, obj_block)) {
 	image_xscale = 1
 }
 if (keyboard_check(vk_up)){
+	if jumping == true{
+		audio_play_sound(snd_jump,10,false)
+		alarm[0] = 70
+		jumping = false
+	}
 	show_debug_message("jumping")
+	
 	if (instance_place(x, y+1, obj_block)){
 		vspeed = jump_height
 	}
